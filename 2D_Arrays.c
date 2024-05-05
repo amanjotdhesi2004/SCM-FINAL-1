@@ -209,4 +209,5 @@ int main(){
     }
     return 0;
 }
-// THANK YOU //
+// THANK YOU ALL//
+// I hope you guys solved the questions //
