@@ -179,7 +179,7 @@ int main(){
 }
 */
 
-int main(){
+void main(){
     int r;
     printf("Enter no of rows :");
     scanf("%d",&r);
