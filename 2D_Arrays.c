@@ -1,3 +1,4 @@
+// QUESTIONS ON 2D ARRAY //
 #include <stdio.h>
 /** OUTPUT IN 2D ARRAY **/
 /*
@@ -208,4 +209,4 @@ int main(){
     }
     return 0;
 }
-
+// THANK YOU //
